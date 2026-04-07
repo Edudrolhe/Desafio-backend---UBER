@@ -162,7 +162,6 @@ curl -X POST http://localhost:8080/api/product \
 ## 📚 Referências
 
 - [Desafio Original (Node.js)](https://github.com/githubanotaai/new-test-backend-nodejs)
-- [Vídeo do Desafio](https://www.youtube.com/watch?v=a3tPHH8uwPc)
 
 ---
 
