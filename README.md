@@ -17,9 +17,9 @@
 
 ## 📋 Sobre o Projeto
 
-> Desafio técnico para vaga de **Backend Analyst** na [Anota AI](https://github.com/githubanotaai)
+> Desafio técnico para vaga de **Backend Analyst** na [UBER]
 
-Este projeto é uma implementação do desafio técnico da Anota AI, que consiste em desenvolver uma API para gerenciamento de catálogo de produtos em uma aplicação marketplace.
+Este projeto é uma implementação do desafio técnico da UBER, que consiste em desenvolver uma API para gerenciamento de catálogo de produtos em uma aplicação marketplace.
 
 ### ✔️ Funcionalidades Implementadas
 
@@ -162,7 +162,6 @@ curl -X POST http://localhost:8080/api/product \
 ## 📚 Referências
 
 - [Desafio Original (Node.js)](https://github.com/githubanotaai/new-test-backend-nodejs)
-- [Vídeo do Desafio](https://www.youtube.com/watch?v=a3tPHH8uwPc)
 
 ---
 
