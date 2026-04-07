@@ -1,8 +1,8 @@
-package com.edudrolhe.desafio_anota_ai.controllers;
+package com.edudrolhe.desafio_uber.controllers;
 
-import com.edudrolhe.desafio_anota_ai.domain.category.Category;
-import com.edudrolhe.desafio_anota_ai.domain.category.CategoryDTO;
-import com.edudrolhe.desafio_anota_ai.service.CategoryService;
+import com.edudrolhe.desafio_uber.domain.category.Category;
+import com.edudrolhe.desafio_uber.domain.category.CategoryDTO;
+import com.edudrolhe.desafio_uber.service.CategoryService;
 import lombok.RequiredArgsConstructor;
 import java.util.List;
 import org.springframework.http.ResponseEntity;

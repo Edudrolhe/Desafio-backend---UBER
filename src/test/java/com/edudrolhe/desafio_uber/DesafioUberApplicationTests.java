@@ -1,10 +1,10 @@
-package com.edudrolhe.desafio_anota_ai;
+package com.edudrolhe.desafio_uber;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DesafioAnotaAiApplicationTests {
+class DesafioUberApplicationTests {
 
 	@Test
 	void contextLoads() {

@@ -1,7 +1,7 @@
-package com.edudrolhe.desafio_anota_ai.controllers;
+package com.edudrolhe.desafio_uber.controllers;
 
 import org.springframework.web.bind.annotation.*;
-import com.edudrolhe.desafio_anota_ai.service.SmsMockService;
+import com.edudrolhe.desafio_uber.service.SmsMockService;
 
 @RestController
 @RequestMapping("/api/sms")

@@ -1,4 +1,4 @@
-package com.edudrolhe.desafio_anota_ai.config;
+package com.edudrolhe.desafio_uber.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

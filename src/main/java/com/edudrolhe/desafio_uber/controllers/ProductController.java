@@ -1,12 +1,12 @@
-package com.edudrolhe.desafio_anota_ai.controllers;
+package com.edudrolhe.desafio_uber.controllers;
 
 import java.util.List;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
-import com.edudrolhe.desafio_anota_ai.domain.product.Product;
-import com.edudrolhe.desafio_anota_ai.domain.product.ProductDTO;
-import com.edudrolhe.desafio_anota_ai.service.ProductService;
+import com.edudrolhe.desafio_uber.domain.product.Product;
+import com.edudrolhe.desafio_uber.domain.product.ProductDTO;
+import com.edudrolhe.desafio_uber.service.ProductService;
 
 @RestController
 @RequestMapping("/api/product")

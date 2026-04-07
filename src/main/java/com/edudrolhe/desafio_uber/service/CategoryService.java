@@ -1,13 +1,13 @@
-package com.edudrolhe.desafio_anota_ai.service;
+package com.edudrolhe.desafio_uber.service;
 
   
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
-import com.edudrolhe.desafio_anota_ai.domain.category.Category;
-import com.edudrolhe.desafio_anota_ai.domain.category.CategoryDTO;
-import com.edudrolhe.desafio_anota_ai.domain.category.exceptions.CategoryNotFoundException;
-import com.edudrolhe.desafio_anota_ai.repositories.CategoryRepository;
+import com.edudrolhe.desafio_uber.domain.category.Category;
+import com.edudrolhe.desafio_uber.domain.category.CategoryDTO;
+import com.edudrolhe.desafio_uber.domain.category.exceptions.CategoryNotFoundException;
+import com.edudrolhe.desafio_uber.repositories.CategoryRepository;
 
 import java.util.List;
 import java.util.Optional;

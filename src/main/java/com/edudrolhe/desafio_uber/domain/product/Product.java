@@ -1,6 +1,6 @@
-package com.edudrolhe.desafio_anota_ai.domain.product;
+package com.edudrolhe.desafio_uber.domain.product;
 
-import com.edudrolhe.desafio_anota_ai.domain.category.Category;
+import com.edudrolhe.desafio_uber.domain.category.Category;
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
 

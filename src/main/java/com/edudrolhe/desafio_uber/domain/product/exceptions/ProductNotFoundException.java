@@ -1,4 +1,4 @@
-package com.edudrolhe.desafio_anota_ai.domain.product.exceptions;
+package com.edudrolhe.desafio_uber.domain.product.exceptions;
 
 public class ProductNotFoundException extends RuntimeException {
     public ProductNotFoundException() {

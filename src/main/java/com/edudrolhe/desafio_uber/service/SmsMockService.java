@@ -1,4 +1,4 @@
-package com.edudrolhe.desafio_anota_ai.service;
+package com.edudrolhe.desafio_uber.service;
 
 import org.springframework.stereotype.Service;
 

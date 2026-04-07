@@ -1,16 +1,16 @@
-package com.edudrolhe.desafio_anota_ai.service;
+package com.edudrolhe.desafio_uber.service;
 
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
 
-import com.edudrolhe.desafio_anota_ai.domain.category.Category;
-import com.edudrolhe.desafio_anota_ai.domain.category.exceptions.CategoryNotFoundException;
-import com.edudrolhe.desafio_anota_ai.domain.product.Product;
-import com.edudrolhe.desafio_anota_ai.domain.product.ProductDTO;
-import com.edudrolhe.desafio_anota_ai.domain.product.exceptions.ProductNotFoundException;
-import com.edudrolhe.desafio_anota_ai.repositories.ProductRepository;
+import com.edudrolhe.desafio_uber.domain.category.Category;
+import com.edudrolhe.desafio_uber.domain.category.exceptions.CategoryNotFoundException;
+import com.edudrolhe.desafio_uber.domain.product.Product;
+import com.edudrolhe.desafio_uber.domain.product.ProductDTO;
+import com.edudrolhe.desafio_uber.domain.product.exceptions.ProductNotFoundException;
+import com.edudrolhe.desafio_uber.repositories.ProductRepository;
 
 @Service
 public class ProductService {

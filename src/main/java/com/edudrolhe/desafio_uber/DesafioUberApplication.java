@@ -1,4 +1,4 @@
-package com.edudrolhe.desafio_anota_ai;
+package com.edudrolhe.desafio_uber;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -6,10 +6,10 @@ import org.springframework.data.mongodb.repository.config.EnableMongoRepositorie
 
 @SpringBootApplication
 @EnableMongoRepositories
-public class DesafioAnotaAiApplication {
+public class DesafioUberApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DesafioAnotaAiApplication.class, args);
+		SpringApplication.run(DesafioUberApplication.class, args);
 	}
 
 }

@@ -2,7 +2,7 @@
 <a name="readme-top"></a>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E8DFF&height=250&section=header&text=Desafio%20Anota%20AI&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E8DFF&height=250&section=header&text=Desafio%20Uber&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" />
 </p>
 
 <p align="center">
@@ -17,9 +17,9 @@
 
 ## 📋 Sobre o Projeto
 
-> Desafio técnico para vaga de **Backend Analyst** na [Anota AI](https://github.com/githubanotaai)
+> Desafio técnico para vaga de **Backend** na **Uber**
 
-Este projeto é uma implementação do desafio técnico da Anota AI, que consiste em desenvolver uma API para gerenciamento de catálogo de produtos em uma aplicação marketplace.
+Este projeto é uma implementação de desafio técnico para processo seletivo da Uber.
 
 ### ✔️ Funcionalidades Implementadas
 
@@ -50,8 +50,8 @@ Este projeto é uma implementação do desafio técnico da Anota AI, que consist
 ## 📦 Estrutura do Projeto
 
 ```
-desafio-anota-ai/
-├── src/main/java/com/edudrolhe/desafio_anota_ai/
+desafio-uber/
+├── src/main/java/com/edudrolhe/desafio_uber/
 │   ├── config/           # Configurações AWS
 │   ├── controllers/      # Endpoints REST
 │   ├── domain/           # Entidades e DTOs
@@ -78,8 +78,8 @@ desafio-anota-ai/
 
 ```bash
 # Clone o repositório
-git clone https://github.com/eduardodrolhe/desafio-anota-ai.git
-cd desafio-anota-ai
+git clone https://github.com/Edudrolhe/Desafio-backend---UBER.git
+cd Desafio-backend---UBER
 
 # Compile o projeto
 ./mvnw clean compile
